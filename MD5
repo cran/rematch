@@ -1,0 +1,11 @@
+86fed7d3b1f4a29ffc9ebe16b54659fc *DESCRIPTION
+ddfa93fe5d0827d872d34b7eef574617 *LICENSE
+66d6c0cadabbb19765b6d2b06a501098 *NAMESPACE
+491554e0d61b8dea6bad628da41b51dc *R/package.R
+7e4ca3f7d415ec56887db89e15f8543a *inst/NEWS.md
+103bfb2264d313302cd456814cdbecaa *inst/README.Rmd
+30e86bc337e361e92ad4ef0661f98535 *inst/README.md
+02c44945b414d30330c875f4d47354d0 *man/re_match.Rd
+a8d0ce22292bf9718bcce898db9c5480 *man/rematch.Rd
+c99ec8380983645be33bdffcc35830d5 *tests/testthat.R
+0a9a58b76071b82c6132742ebf4afe6f *tests/testthat/test.R
